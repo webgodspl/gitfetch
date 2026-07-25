@@ -2,9 +2,17 @@
 
 A lightweight Python CLI tool to quickly fetch and display detailed GitHub user profile information directly from your terminal.
 
-## Description
+## Features
 
-A lightweight Python CLI tool to quickly fetch and display detailed GitHub user profile information directly from your terminal.
+* Fetches public account details (Name, Company, Location, Bio, Email, etc.)
+* Shows public repositories, gists, followers, and following counts
+* Automatically opens the user's profile, repositories, followers, following, and stars tabs in your browser
+* Runs locally in your terminal window
+
+## Requirements
+
+* Python 3
+* Requests library
 
 ## Installation
 
