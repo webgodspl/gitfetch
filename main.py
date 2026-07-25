@@ -30,6 +30,7 @@ def get_github_info():
         print(f"Profile URL: {data.get('html_url')}")
         print(f"Created At: {data.get('created_at')}")
         print(f"Updated At: {data.get('updated_at')}")
+        print(f"Made by : makodev}")
         
         script_path = os.path.abspath(__file__)
         subprocess.run(["osascript", "-e", f'tell application "Terminal" to do script "python3 {script_path}"'])
