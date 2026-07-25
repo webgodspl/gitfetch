@@ -22,4 +22,4 @@ A lightweight Python CLI tool to quickly fetch and display detailed GitHub user 
 ```bash
 pip3 install requests
 ```
-<small>© 2026 WebGods</small>
+© 2026 WebGods
