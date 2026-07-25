@@ -1,4 +1,4 @@
-# gh-info
+# gitfetch
 
 A lightweight Python CLI tool to quickly fetch and display detailed GitHub user profile information directly from your terminal.
 
